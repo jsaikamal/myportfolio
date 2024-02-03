@@ -1291,3 +1291,38 @@ body {
   color: #fff;
 }
 
+@import url("https://fonts.googleapis.com/css?family=Muli&display=swap");
+
+* {
+ 
+}
+
+body {
+  
+  align-items: center;
+ 
+  height: 10vh;
+  margin: 0;
+}
+
+
+h1 {
+  font-size: 70px;
+  margin: 0;
+}
+
+p {
+  color: rgb(238, 235, 235);
+  letter-spacing: 2px;
+  margin: 10;
+}
+h1 {
+  font-size: 70px;
+  margin: 0;
+}
+
+p {
+  color: rgb(238, 235, 235);
+  letter-spacing: 2px;
+  margin: 10;
+}
